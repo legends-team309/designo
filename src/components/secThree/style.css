@@ -1,0 +1,43 @@
+.sections{
+ 
+    
+    
+
+}
+/* image svg section three */
+.sec-img{
+    border-radius: 50%;
+    transition: all .2s ease-in-out;
+    display: flex;
+    margin-left: 50px;
+}
+.sec-img:hover {
+    transform: scale(1.08); 
+  }
+/* Title section three */
+.sec-title{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 5px;
+    color: #1d1c1e;
+    text-align: center;
+    
+}
+/* Pragraph svg section three */
+.sec-p{
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+    width: 290px;
+}
+/*  */
+
+.div1-sce3{
+    display: inline-block;
+    
+    padding-left: 6%;
+    margin:10% 0;
+
+  
+}
