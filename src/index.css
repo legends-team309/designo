@@ -77,6 +77,10 @@ justify-content: space-between;
 	box-sizing: border-box;
 	color: white;
 }
+.panner-p p {
+	margin: 20px 0 ;
+
+}
 .btn-white{
 	background-color: white;
 	border: none;
@@ -111,6 +115,9 @@ justify-content: space-between;
 		width: 100%;
 
 	}
+}
+.sec-title{
+	margin: 19px 0;
 }
 /* Hero SEction ENd */
 
