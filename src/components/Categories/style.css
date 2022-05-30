@@ -1,0 +1,20 @@
+.categories-sec {
+  height: 530px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+.categories-sec > div {
+  flex: 1 1 350px;
+  color: var(--font-color-white);
+}
+.categories-sec > div h2{
+  text-transform: uppercase;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
