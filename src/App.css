@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #E7806B;
+  --font-color-white: #fed7d7;
+  --font-color-gray-100: #FEFBFA;
+  --font-color-gray-200: #8E8D8E;
+  --font-color-gray300: #1D1C1E;
+}
+.main {
+  width: 100%;
+}
+.container {
+  width: 80vw;
+  margin: auto;
+}
